@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 .clearfix:after {
-  content: ".";
+
   display: block;
   clear: both;
   visibility: hidden;
@@ -109,7 +109,7 @@ nav ul li{
   margin-top: 47px;
   position: absolute;
   margin-left: 18%;
-  font-size: 14px;
+  font-size: 
 }
 /* SECTION 3 */
 .sectionLargePics{
